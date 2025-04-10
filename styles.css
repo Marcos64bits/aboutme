@@ -1,0 +1,13 @@
+.align-center{
+    align-content: center;
+}
+.img-responsive{
+    width: 100%;
+}
+.img-logo{
+    width: 30%;
+}
+body{
+    background-color: rgb(39, 37, 37);
+    color: #eee;
+}
