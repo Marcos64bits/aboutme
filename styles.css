@@ -1,3 +1,8 @@
+
+.nav-link{
+    color: rgb(141, 112, 112);
+    border: #eee;
+}
 .align-center{
     align-content: center;
 }
@@ -8,6 +13,6 @@
     width: 30%;
 }
 body{
-    background-color: rgb(39, 37, 37);
+    background-color: rgb(63, 58, 58);
     color: #eee;
 }
